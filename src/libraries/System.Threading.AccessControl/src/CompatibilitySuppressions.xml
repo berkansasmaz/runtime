@@ -3,7 +3,7 @@
   <Suppression>
     <DiagnosticId>CP0001</DiagnosticId>
     <Left>lib/netstandard2.0/System.Threading.AccessControl.dll</Left>
-    <Right>lib/net461/System.Threading.AccessControl.dll</Right>
+    <Right>lib/net462/System.Threading.AccessControl.dll</Right>
   </Suppression>
   <Suppression>
     <DiagnosticId>PKV006</DiagnosticId>

@@ -3,7 +3,7 @@
   <Suppression>
     <DiagnosticId>CP0001</DiagnosticId>
     <Left>lib/netstandard2.0/System.IO.Packaging.dll</Left>
-    <Right>lib/net461/System.IO.Packaging.dll</Right>
+    <Right>lib/net462/System.IO.Packaging.dll</Right>
   </Suppression>
   <Suppression>
     <DiagnosticId>PKV006</DiagnosticId>

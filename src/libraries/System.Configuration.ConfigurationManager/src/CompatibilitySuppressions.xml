@@ -3,6 +3,6 @@
   <Suppression>
     <DiagnosticId>CP0001</DiagnosticId>
     <Left>lib/netstandard2.0/System.Configuration.ConfigurationManager.dll</Left>
-    <Right>lib/net461/System.Configuration.ConfigurationManager.dll</Right>
+    <Right>lib/net462/System.Configuration.ConfigurationManager.dll</Right>
   </Suppression>
 </Suppressions>

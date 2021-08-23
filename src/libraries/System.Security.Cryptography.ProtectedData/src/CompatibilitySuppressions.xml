@@ -4,13 +4,13 @@
     <DiagnosticId>CP0001</DiagnosticId>
     <Target>T:System.Security.Cryptography.DataProtectionScope</Target>
     <Left>lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll</Left>
-    <Right>lib/net461/System.Security.Cryptography.ProtectedData.dll</Right>
+    <Right>lib/net462/System.Security.Cryptography.ProtectedData.dll</Right>
   </Suppression>
   <Suppression>
     <DiagnosticId>CP0001</DiagnosticId>
     <Target>T:System.Security.Cryptography.ProtectedData</Target>
     <Left>lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll</Left>
-    <Right>lib/net461/System.Security.Cryptography.ProtectedData.dll</Right>
+    <Right>lib/net462/System.Security.Cryptography.ProtectedData.dll</Right>
   </Suppression>
   <Suppression>
     <DiagnosticId>PKV006</DiagnosticId>

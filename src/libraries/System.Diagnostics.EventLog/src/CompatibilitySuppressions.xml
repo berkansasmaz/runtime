@@ -3,6 +3,6 @@
   <Suppression>
     <DiagnosticId>CP0001</DiagnosticId>
     <Left>lib/netstandard2.0/System.Diagnostics.EventLog.dll</Left>
-    <Right>lib/net461/System.Diagnostics.EventLog.dll</Right>
+    <Right>lib/net462/System.Diagnostics.EventLog.dll</Right>
   </Suppression>
 </Suppressions>

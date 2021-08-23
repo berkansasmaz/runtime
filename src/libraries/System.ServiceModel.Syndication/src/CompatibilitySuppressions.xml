@@ -3,6 +3,6 @@
   <Suppression>
     <DiagnosticId>CP0001</DiagnosticId>
     <Left>lib/netstandard2.0/System.ServiceModel.Syndication.dll</Left>
-    <Right>lib/net461/System.ServiceModel.Syndication.dll</Right>
+    <Right>lib/net462/System.ServiceModel.Syndication.dll</Right>
   </Suppression>
 </Suppressions>
