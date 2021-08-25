@@ -12,12 +12,6 @@
           DependsOnTargets="BundleTestWasmApp"
           Condition="'$(TargetArchitecture)' == 'wasm' And '$(TargetOS)' == 'browser'" />
 
-  <!-- Trimming tests don't use the live apphost, therefore hardcode the version until the SDK understands the net7.0 tfm. -->
-  <ItemGroup>
-    <KnownAppHostPack Update="Microsoft.NETCore.App" 
-                      AppHostPackVersion="6.0.0-rc.1.21411.2" />
-  </ItemGroup>
-
   <!-- Overriding these targets as these projects won't need to binplace -->
   <Target Name="PublishTestAsSelfContained" />
 
